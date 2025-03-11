@@ -1,12 +1,13 @@
 # **TaskFlow - Your Personal Productivity Board**  
 
 ### Build a drag and drop TaskFlow 
-![Screenshot](./public/ss.png)
+
+![TaskFlow Preview](https://github.com/user-attachments/assets/90faa762-5997-4674-b889-0d7067f595de)  
 
 
 TaskFlow is a **dynamic task management system** designed to help individuals and teams stay organized. Easily create columns, add tasks, and track progress in a **beautiful and intuitive interface**.  
 
-![TaskFlow Preview](your-image-url-here)  
+![image](https://github.com/user-attachments/assets/6ab51323-beaf-49ee-bfa1-325c73e06d27)
 
 ---
 
@@ -17,13 +18,6 @@ TaskFlow is a **dynamic task management system** designed to help individuals an
 ✅ **Dark & Light Mode** – Switch themes for a better user experience.  
 ✅ **AI Task Suggestions** – Get recommended tasks based on past activity.  
 ✅ **Progress Tracking** – Visual indicators to track your goals.  
-
----
-
-## **📸 Screenshots**
-| Light Mode | Dark Mode |
-|------------|------------|
-| ![Light Mode](your-lightmode-image-url-here) | ![Dark Mode](your-darkmode-image-url-here) |
 
 ---
 
