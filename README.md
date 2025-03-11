@@ -14,9 +14,7 @@ TaskFlow is a **dynamic task management system** designed to help individuals an
 ## **✨ Features**
 ✅ **Customizable Kanban Board** – Add, rename, and delete task columns.  
 ✅ **Drag & Drop Tasks** – Move tasks between columns effortlessly.  
-✅ **Task Prioritization** – Assign priority labels (High, Medium, Low).  
-✅ **Dark & Light Mode** – Switch themes for a better user experience.  
-✅ **AI Task Suggestions** – Get recommended tasks based on past activity.  
+✅ **Dark Mode** – Dark theme for a better user experience.   
 ✅ **Progress Tracking** – Visual indicators to track your goals.  
 
 ---
