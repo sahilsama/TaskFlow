@@ -18,7 +18,7 @@ TaskFlow is a **dynamic task management system** designed to help individuals an
 ✅ **Progress Tracking** – Visual indicators to track your goals.  
 
 ---
-## **other uses:  ** 
+## other uses: 
 1) use it as a another Task Manager
 2) use it for Client and employer communication to ensure smooth workflow i.e. To-Do → In Progress → Done.
 3) or as Freelancer to Keep track of revisions, approvals, and progress.
